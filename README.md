@@ -11,5 +11,5 @@ fi
 Add this to specify the path of the plugins directory
 
 ```
-export TMUX_PLUGIN_MANAGER_PATH="/home/sdalvik/.config/tmux/plugins/"
+export TMUX_PLUGIN_MANAGER_PATH="~/.config/tmux/plugins/"
 ```
